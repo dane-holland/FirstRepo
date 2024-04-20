@@ -1,5 +1,5 @@
 USE SQL_DBA;
 GO
 SELECT *
-	FROM dbo.commandlog;
+FROM dbo.commandlog;
 GO
