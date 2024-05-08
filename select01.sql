@@ -1,6 +1,7 @@
 USE SQL_DBA
-GO
 SELECT *
-FROM dbo.commandlog;
-GO
+FROM dbo.commandlog
+
 /*** testing out GIT ***/
+/*** removed Go and ; ***/
+/*** removed space ***/
